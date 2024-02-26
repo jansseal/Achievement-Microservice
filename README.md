@@ -45,3 +45,4 @@ print("Opponents Defeated:", data["opponents_defeated"])
 ```
 
 ### UML Sequence Diagram
+![UML Sequence Diagram](sequence_diagram.png)
